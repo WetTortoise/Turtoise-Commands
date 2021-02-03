@@ -4,7 +4,7 @@ List of commands used for  the bot - turtoise
 
 definition of the bot:
 
-This bot is used for education information and fun all based around tortoises and turtles. The bot uses twitters API to post updates on twitter accounts based around informing their followers about the importance of keeping sea turtles from being  endangered and eventually become extinct,  from pollution and global warming.
+This bot is mainly used for education information and fun all based around tortoises and turtles. The bot uses twitters API to post updates on twitter accounts based around informing their followers about the importance of keeping sea turtles from being  endangered and eventually become extinct,  from pollution and global warming. There are also a few commands to improve user experience on twitch.
 
 
 Owner contact information:
