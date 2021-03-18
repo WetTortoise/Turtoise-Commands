@@ -1,4 +1,5 @@
 # Turtoise-Commands
+snappingbot is currently down until further notice - i was too stressed and couldnt focuse on anything other than fixing the bot but never actually managed to do that. My apologies for any inconvieniences
 List of commands used for  the bot - turtoise 
 
 
